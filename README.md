@@ -9,9 +9,7 @@
         <li>Predict whether a customer is likely to churn or remain with the service.</li>
         <li>Develop a robust model using algorithms like Logistic Regression, Random Forests, or Gradient Boosting.</li>
         <li>Evaluate model performance using metrics such as accuracy, precision, recall, and F1-score.</li>
-    </ul>
-
-  
+    </ul>  
 
   
   <h2>Challenges</h2>

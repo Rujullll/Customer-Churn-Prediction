@@ -17,17 +17,7 @@
         Handling imbalanced datasets and selecting the best features were significant challenges during the project. Techniques like SMOTE (Synthetic Minority Over-sampling Technique) were used to address class imbalance.
     </p>
 
-  <h2>Results</h2>
-    <p>
-        The final model achieved the following performance metrics:
-        <ul>
-            <li>Accuracy: <strong>XX%</strong></li>
-            <li>Precision: <strong>XX%</strong></li>
-            <li>Recall: <strong>XX%</strong></li>
-            <li>F1-Score: <strong>XX%</strong></li>
-        </ul>
-    </p>
-
+  
   <h2>Technologies Used</h2>
     <ul>
         <li>Python</li>
